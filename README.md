@@ -1,7 +1,6 @@
 # Smart Dashboard App
 
 A React-based intelligent dashboard that learns from your interactions and rearranges cards using TensorFlow.js machine learning.
-This project is built by a human and [cursor](https://www.cursor.com/).
 
 ## ✨ Features
 
@@ -136,3 +135,6 @@ src/
 - Global styles in `src/index.css`
 - Component-specific styles using CSS classes
 - Color scheme and spacing easily customizable
+
+**NOTE:**
+This project is built by a human and [cursor](https://www.cursor.com/). 
